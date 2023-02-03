@@ -1,8 +1,9 @@
 <template>
+  <div class="navCont">
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/"></router-link>
   </nav>
+</div>
   <router-view/>
 </template>
 
@@ -14,17 +15,32 @@
   text-align: center;
   color: #2c3e50;
 }
+.navCont{
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 50px;
+  background-color: #FFC563;
+  /*background-color: #6198FF;*/
+  z-index: 4;
+  font-size: 28px;
 
-nav {
-  padding: 30px;
 }
 
 nav a {
   font-weight: bold;
-  color: #2c3e50;
+  color: #FFFFFF;
 }
 
 nav a.router-link-exact-active {
-  color: #42b983;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+body{
+  margin: 0;
+  overflow-x: hidden;
 }
 </style>
