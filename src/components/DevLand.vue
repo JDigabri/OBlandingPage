@@ -1,4 +1,6 @@
 <template>
+    <meta name = "theme-color" content = "#FFC563">
+
     <div class="navCont">
     
     
