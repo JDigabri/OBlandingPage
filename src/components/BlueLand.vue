@@ -69,18 +69,18 @@
 
 <style scoped>
 .dSecFour > p{
-    font-family: 'Inter', sans-serif;
+    font-family: Inter, sans-serif;
     font-size: 24px;
     color: black;
     cursor:default;
     margin-top:50px;
 }
 .stretch > h1{
-    font-family: 'Rubik', sans-serif;font-style: normal;font-weight: 800;font-size: 68px;color: #FFFFFF;cursor:default;
+    font-family: Rubik, sans-serif;font-style: normal;font-weight: 800;font-size: 68px;color: #FFFFFF;cursor:default;
     margin-top:33px;
 }
 .mainText{
-    font-family: 'Rubik', sans-serif;font-style: normal;font-weight: 800;font-size: 24px !important;color: #FFFFFF;cursor:default;margin-top:125px;
+    font-family: Rubik, sans-serif;font-style: normal;font-weight: 800;font-size: 24px !important;color: #FFFFFF;cursor:default;margin-top:125px;
 }
 .navCont{
     position: fixed;
@@ -118,7 +118,7 @@
 
 }
 .ddemoButton > a{
-    font-family: 'Rubik', sans-serif;    
+    font-family: Rubik, sans-serif;    
     font-style: normal;
     font-weight: 800;
     font-size: 30px;
@@ -162,10 +162,10 @@
 
 }
 .secTitle{
-    font-family: 'Rubik', sans-serif;font-style: normal;font-weight: 800;font-size: 30px;color: black;cursor:default;
+    font-family: Rubik, sans-serif;font-style: normal;font-weight: 800;font-size: 30px;color: black;cursor:default;
 }
 .secText{
-    font-family: 'Inter', sans-serif;font-size: 24px;color: black;cursor:default;
+    font-family: Inter, sans-serif;font-size: 24px;color: black;cursor:default;
 }
 .dSecOne{
     height: 500px;
@@ -229,7 +229,7 @@
     border: 3px solid #000000;
     --scaler: 1;
     transform: scale(var(--scaler)) rotate(-9deg);
-    font-family: 'Rubik', sans-serif;
+    font-family: Rubik, sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 28px;
@@ -250,7 +250,7 @@
     justify-content: center;
     align-items: center;
     transform: rotate(5deg);
-    font-family: 'Rubik', sans-serif;
+    font-family: Rubik, sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 28px;
@@ -274,7 +274,7 @@
     background: #275AA4;
     border: 3px solid #000000;
     box-shadow: 0px 2px 5px 3px rgba(0, 0, 0, 0.25);
-    font-family: 'Rubik', sans-serif;
+    font-family: Rubik, sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 28px;
@@ -293,7 +293,7 @@
         overflow-x:hidden ;
     }
     .dSecFour > p{
-        font-family: 'Inter', sans-serif;
+        font-family: Inter, sans-serif;
         font-size: 24px;
         color: black;
         cursor:default;
@@ -302,10 +302,10 @@
     .stretch > h1{
         margin-top:40px;
 
-        font-family: 'Rubik', sans-serif;font-style: normal;font-weight: 800;font-size: 42px;color: #FFFFFF;cursor:default;
+        font-family: Rubik, sans-serif;font-style: normal;font-weight: 800;font-size: 42px;color: #FFFFFF;cursor:default;
     }
     .mainText{
-        font-family: 'Rubik', sans-serif;font-style: normal;font-weight: 800;font-size: 14px !important;color: #FFFFFF;cursor:default;margin-top:25px;
+        font-family: Rubik, sans-serif;font-style: normal;font-weight: 800;font-size: 14px !important;color: #FFFFFF;cursor:default;margin-top:25px;
     }
     .navCont{
         position: fixed;
@@ -345,7 +345,7 @@
     
     }
     .ddemoButton > a{
-        font-family: 'Rubik', sans-serif;    
+        font-family: Rubik, sans-serif;    
         font-style: normal;
         font-weight: 800;
         font-size: 30px;
@@ -392,10 +392,10 @@
     
     }
     .secTitle{
-        font-family: 'Rubik', sans-serif;font-style: normal;font-weight: 800;font-size: 30px;color: black;cursor:default;
+        font-family: Rubik, sans-serif;font-style: normal;font-weight: 800;font-size: 30px;color: black;cursor:default;
     }
     .secText{
-        font-family: 'Inter', sans-serif;font-size: 24px;color: black;cursor:default;
+        font-family: Inter, sans-serif;font-size: 24px;color: black;cursor:default;
     }
     .dSecOne{
         height: 600px;
@@ -461,7 +461,7 @@
         border: 3px solid #000000;
         --scaler: 1;
         transform: scale(var(--scaler)) rotate(-9deg);
-        font-family: 'Rubik', sans-serif;
+        font-family: Rubik, sans-serif;
         font-style: normal;
         font-weight: 800;
         font-size: 28px;
@@ -483,7 +483,7 @@
         justify-content: center;
         align-items: center;
         transform: rotate(5deg);
-        font-family: 'Rubik', sans-serif;
+        font-family: Rubik, sans-serif;
         font-style: normal;
         font-weight: 800;
         font-size: 28px;
@@ -507,7 +507,7 @@
         background: #275AA4;
         border: 3px solid #000000;
         box-shadow: 0px 2px 5px 3px rgba(0, 0, 0, 0.25);
-        font-family: 'Rubik', sans-serif;
+        font-family: Rubik, sans-serif;
         font-style: normal;
         font-weight: 800;
         font-size: 28px;
