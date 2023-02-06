@@ -1,5 +1,5 @@
 <template>
-    <meta name = "theme-color" content = "#6D97E2">
+    <meta name = "theme-color" content = "#6198FF">
 
     
     <div class="navCont">
