@@ -286,6 +286,9 @@
 
 
 @media only screen and (max-width: 900px){
+    div#site-header-inner {
+		background-color: #6D97E2;
+	}
     .container{
         overflow-x:hidden ;
     }
@@ -297,6 +300,8 @@
         margin-top:50px;
     }
     .stretch > h1{
+        margin-top:40px;
+
         font-family: 'Rubik', sans-serif;font-style: normal;font-weight: 800;font-size: 42px;color: #FFFFFF;cursor:default;
     }
     .mainText{
