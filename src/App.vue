@@ -1,9 +1,4 @@
 <template>
-  <div class="navCont">
-  <nav>
-    <router-link to="/"></router-link>
-  </nav>
-</div>
   <router-view/>
 </template>
 

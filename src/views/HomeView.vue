@@ -1,21 +1,28 @@
 <template>
   <div class="home">
-    <!-- DevLand --> 
-    <DevLand/>
+    <component @nextStep="changeStep" v-bind:is="selectedComponent"></component>
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-//import BlueLand from '@/components/BlueLand.vue'
+import BlueLand from '@/components/BlueLand.vue'
 import DevLand from '@/components/DevLand.vue'
 
-
 export default {
-  name: 'HomeView',
-  components: {
-    //BlueLand,
-    DevLand
-  }
+    name: "HomeView",
+    components: {
+      BlueLand,
+      DevLand    
+    },
+    data() {
+        return {
+            selectedComponent: "BlueLand"
+        }
+    }, methods: {
+        changeStep(step) {
+            this.selectedComponent = step;
+        }
+    }, 
 }
+
 </script>
