@@ -2,7 +2,7 @@
     <meta name = "theme-color" content = "#FFC563">
 
     <div class="navCont">
-    
+        <img src="../assets/favwhite.png" alt="zaza">
     
     </div>
     <div class="container"> 
@@ -94,7 +94,18 @@
     font-size: 28px;
   
   }
-  
+  .navCont > img{
+    height: 40px;
+    filter: drop-shadow(0 0 25px black);
+    transition: ease-in .1s;
+  }
+
+  .navCont > img:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+  }
+
+
 .mCont{
     display: none;
  }

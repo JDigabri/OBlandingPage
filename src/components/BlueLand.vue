@@ -1,6 +1,8 @@
 <template>
     <meta name = "theme-color" content = "#6198FF">    
     <div class="navCont">
+        <img src="../assets/favwhite.png" alt="zaza">
+
     </div>
     <div class="container"> 
         <div class="dCont">
@@ -160,6 +162,17 @@
     width:  30vw;
 
 }
+.navCont > img{
+    height: 40px;
+    filter: drop-shadow(0 0 25px black);
+    transition: ease-in .1s;
+  }
+
+  .navCont > img:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+  }
+
 .secTitle{
     font-family: Rubik, sans-serif;font-style: normal;font-weight: 800;font-size: 30px;color: black;cursor:default;
 }
