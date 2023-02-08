@@ -384,9 +384,9 @@
 
     .walcus{
         background-image: url("../assets/recdev.png");
-        height: 322px;
+        height: 250px;
         margin-left:50px;
-        width: 260px;
+        width: 190px;
         background-size: contain;
 
         background-repeat: no-repeat;
@@ -394,10 +394,15 @@
     }
     .owncus{
         background-image: url("../assets/splitdev.png");
-        height: 408px;
-        width: 330px;
+        height: 300px;
+        width: 200px;
         background-repeat: no-repeat;
-
+        background-size: contain;
+    }
+    
+    .downcus{
+        margin-right: 12vw;
+        padding: 0;
     }
     .dsecOneText{
 
@@ -420,7 +425,7 @@
         align-items: center;
     }
     .dSecTwo{
-        height: 900px;
+        height: 700px;
         width: 100vw;
         background-color: #F0F0F0;
         margin-bottom: 70px;

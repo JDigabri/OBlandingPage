@@ -364,9 +364,9 @@
         margin-top:50px;
     }
     .dwalcus{
-        margin-right: 12vw;
-        padding: 25px;
-    
+        margin-right: 0vw;
+        padding: 0px;
+
     
     }
     .demoimg{
@@ -381,8 +381,10 @@
 
     .walcus{
         background-image: url("../assets/Msellcus.png");
-        height: 322px;
-        width: 350px;
+        height: 250px;
+        width: 300px;
+        background-repeat: no-repeat;
+        background-size: contain;
     }
     .owncus{
         background-image: url("../assets/Mowncus.png");
