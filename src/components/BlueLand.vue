@@ -3,8 +3,6 @@
 
     
     <div class="navCont">
-    
-    
     </div>
     <div class="container"> 
         <div class="dCont">
@@ -289,6 +287,10 @@
 
 
 @media only screen and (max-width: 900px){
+    .downcus{
+        margin-left: 0;
+        padding: 0;
+    }
     div#site-header-inner {
 		background-color: #6D97E2;
 	}
@@ -384,10 +386,11 @@
     }
     .owncus{
         background-image: url("../assets/Mowncus.png");
-        height: 645px;
-        width: 450px;
+        height: 400px;
+        width: 250px;
         background-repeat: no-repeat;
-
+        background-size: contain;
+ 
     }
     .dsecOneText{
 
@@ -410,7 +413,7 @@
         align-items: center;
     }
     .dSecTwo{
-        height: 1000px;
+        height: 800px;
         width: 100vw;
         background-color: #F0F0F0;
         margin-bottom: 20px;
@@ -436,6 +439,7 @@
         display: flex;
         align-items: center;
         flex-direction: column;
+        padding-bottom: 25px;
 
     }
     .stretch{

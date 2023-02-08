@@ -446,6 +446,8 @@
         display: flex;
         align-items: center;
         flex-direction: column;
+        padding-bottom: 25px;
+
 
     }
     .stretch{
