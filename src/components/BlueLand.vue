@@ -23,7 +23,7 @@
                 </div>
 
                 <h1 class="mainText">
-                    As a consumer  keyzy offers a platform <br> for you to own the games you buy
+                    As a consumer jewel offers a platform <br> for you to own the games you buy
                 </h1>            
             </div>
             <div class = "dSecOne">
