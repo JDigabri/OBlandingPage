@@ -24,7 +24,7 @@
                 </div>
 
                 <h1 class="mainText">
-                    As a developer jewel offers a platform for<br> you to earn the most from your games 
+                    As a developer jules offers a platform for<br> you to earn the most from your games 
                 </h1>            
             </div>
             <div class = "dSecOne">

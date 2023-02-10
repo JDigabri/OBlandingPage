@@ -1,7 +1,5 @@
 <template>
-    <meta name = "theme-color" content = "#6198FF">
-
-    
+    <meta name = "theme-color" content = "#6198FF">    
     <div class="navCont">
     </div>
     <div class="container"> 
@@ -23,7 +21,7 @@
                 </div>
 
                 <h1 class="mainText">
-                    As a consumer jewel offers a platform <br> for you to own the games you buy
+                    As a consumer jules offers a platform <br> for you to own the games you buy
                 </h1>            
             </div>
             <div class = "dSecOne">
